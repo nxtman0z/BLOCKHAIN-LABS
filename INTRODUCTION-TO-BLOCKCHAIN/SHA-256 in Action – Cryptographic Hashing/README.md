@@ -1,4 +1,4 @@
-`# Lab 2 – SHA-256 in Action: Cryptographic Hashing
+# Lab 2 – SHA-256 in Action: Cryptographic Hashing
 
 ## Objective
 Understand the working of the SHA-256 hashing algorithm and observe how data changes affect the resulting hash.
